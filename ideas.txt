@@ -1,10 +1,10 @@
 Ideas
 
-- Allow users to design their own clock colors/UI\
-- Alert user if halfway through a task\
-- Ability to sync music with clock\
-- Ability to skip a task\
-- Ability to share clocks to social media (Facebook, twitter, etc)\
-- Basic version is free, full version (music, customizable colors, unlimited clocks) is paid\
-- Limit number of clocks (5-10) for free version\
-- Run statistics on which clocks are more popular}
+- Allow users to design their own clock colors/UI
+- Alert user if halfway through a task
+- Ability to sync music with clock
+- Ability to skip a task
+- Ability to share clocks to social media (Facebook, twitter, etc)
+- Basic version is free, full version (music, customizable colors, unlimited clocks) is paid
+- Limit number of clocks (5-10) for free version
+- Run statistics on which clocks are more popular
