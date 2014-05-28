@@ -1,0 +1,23 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   
+   "name": "animate",
+   "children": [
+    {"name": "Easing", "size": 25}
+   ]
+  },
+  {
+   "name": "data",
+   "children": [
+    {
+     "name": "converters",
+     "children": [
+      {"name": "Converters", "size": 5}
+     ]
+    }
+   ]
+  }
+ ]
+}
